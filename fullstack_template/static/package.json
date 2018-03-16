@@ -26,6 +26,12 @@
   "bugs": {
     "url": "https://github.com/medev21/basic_fullstack_python_react/issues"
   },
+  "babel": {
+  "presets": [
+    "es2015",
+    "react"
+   ]
+  },
   "homepage": "https://github.com/medev21/basic_fullstack_python_react#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
